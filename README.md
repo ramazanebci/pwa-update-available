@@ -1,3 +1,4 @@
+
 Have you ever been on a website and noticed a popup notification that suggests that there is a new version of the site available? I recently visited Google’s Inbox and noticed a notification a little like the image below.
 
 ![PWA New version available](https://deanhume.com/content/images/2018/05/new-version-available.PNG)
